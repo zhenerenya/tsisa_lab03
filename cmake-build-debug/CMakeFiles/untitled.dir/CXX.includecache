@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/enya/workspace/tsisa/tsisa_lab03/main.cpp
+iostream
+-
+random
+-
+iomanip
+-
+math.h
+/home/enya/workspace/tsisa/tsisa_lab03/math.h
+
